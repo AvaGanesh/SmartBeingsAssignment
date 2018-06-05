@@ -1,0 +1,2 @@
+# SmartBeingsAssignment
+Assignment for SmartBeings
